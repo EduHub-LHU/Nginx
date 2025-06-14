@@ -88,4 +88,4 @@ Thư mục tạm – dùng để:
 - [Cấu hình nginx.conf cơ bản](./Nginx/nginx-conf.md)
 - [Cách chạy nginx.exe trên Windows](./Nginx/chay-nginx.md)
 
-> 🧭 Xem chi tiết trong thư mục [`/Nginx`](./NGINX)
+> 🧭 Xem chi tiết trong thư mục [`/Nginx`](./Bai1_Nginx_Local)
