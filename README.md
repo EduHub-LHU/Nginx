@@ -104,5 +104,5 @@ http {
 - 🔍 So sánh Nginx và Apache: [https://kinsta.com/blog/nginx-vs-apache/](https://kinsta.com/blog/nginx-vs-apache/)
 
 ---
-
+```
 [Bài tiếp theo](bai1.md)
